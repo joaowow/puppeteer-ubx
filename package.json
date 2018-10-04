@@ -1,0 +1,29 @@
+{
+    "name": "puppeteer-ubx",
+    "version": "1.0.0",
+    "description": "UI Tests for UBX using puppeteer",
+    "main": "puppeteer-ubx.js",
+    "scripts": {
+        "ubx": "node puppeteer-ubx.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joaowow/puppeteer-ubx.git"
+    },
+    "keywords": [
+        "puppeteer",
+        "ui",
+        "ubx",
+        "tf"
+    ],
+    "author": "Joao Albuquerque",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joaowow/puppeteer-ubx/issues"
+    },
+    "homepage": "https://github.com/joaowow/puppeteer-ubx#readme",
+    "dependencies": {
+        "puppeteer": "^1.8.0"
+    }
+}
